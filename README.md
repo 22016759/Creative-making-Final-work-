@@ -45,7 +45,7 @@ The teacher's requirements were very simple, in terms of hardware, at least two 
 
 My inspiration is actually related to my recent life, when I first came to the UK, in just two months I experienced the unpredictability of the unknown because of some things, because of this I wanted to make a small device about randomness and unpredictability, we never know which one will come first, the unexpected or the surprise, just like in Forrest Gump, life is like a piece of chocolate, you never know what the next piece will taste like. At first I just wanted to put this unpredictability into a balloon that could not be predicted when it would explode, using ultrasonic sensors, the air pump would only inflate the balloon if someone was near, but when this balloon would explode and who would trigger it, we didn't know, including the person who was standing in front of the uitrasonic sensor, he didn't know how long it would take to inflate, he could only vaguely feel from the appearance if it was about to explode, I thought this whole process was interesting, the participants and the viewers were actually involved in this unpredictable experiment, then after thinking about it, I felt something was missing, I thought the mental activity of the process would be exciting too, so I made the participants' heart rate responses visual, so it seemed to complete it, perhaps the LCD display responds to heart rate, or perhaps I want to make a cap with a light on top of my head, where the heart rate is proportional to the flashing frequency of the light.
 
-# Week5 
+# Week 5 
 
 Design and planning
 
@@ -59,7 +59,7 @@ On the left below is my initial sketch, but after thinking about it I re-planned
 
 Secondly, I am going to use the following two weeks to address the code for the heart rate sensor to trigger the LED and the code for the ultrasonic sensor to trigger the air pump respectively.
 
-# Week6 
+# Week 6 
 
 Experimentation
 
@@ -78,4 +78,20 @@ However, I found that the C19 was still playing erratically, so I promptly purch
 Here is my circuit diagram.
 
 <img width="850" alt="截屏2022-12-09 20 48 30" src="https://user-images.githubusercontent.com/119021236/206793733-2edfbf1e-a3f4-4fe5-be58-f19c794fd22c.png">
+
+There was a small problem during the experiment, I found that my LCD display firstly did not light up and then the text was displayed incorrectly, I then investigated the cause and found that it was because the code had written a small part of the logic incorrectly and then the text coordinates were not written correctly.
+
+<img width="750" alt="截屏2022-12-09 20 51 26" src="https://user-images.githubusercontent.com/119021236/206794050-320102a6-3191-485c-ab80-00c6b37b6215.png">
+
+# Week 7
+
+My goal was to experiment with and implement part of the code for my ultrasonic triggered air pump and to solve the problems.
+
+Here is my circuit diagram.
+
+<img width="785" alt="截屏2022-12-09 20 53 29" src="https://user-images.githubusercontent.com/119021236/206794327-b0e93ffe-82a8-479b-b66e-47e2248ecaf8.png">
+
+This week's experiment came out with a lot of problems. When I was doing the first step of the experiment, I found that the air pump I bought could not inflate the balloon, then I watched a lot of instructional videos about air pumps and even saw a video on the principle of how to implement an automatic irrigation system with an air pump, then I watched all the tutorial videos carefully and found that I was missing the two most crucial parts, one was a 22v lithium battery that could provide enough power, and the other was a relay that could turn on or off the control circuit. The other was a relay that could turn on or off the control circuit. Fortunately, the battery was eventually borrowed from the school with the help of my teacher and the relay had been purchased.
+
+<img width="798" alt="截屏2022-12-09 20 54 46" src="https://user-images.githubusercontent.com/119021236/206794611-a521cbb2-ca73-4955-87c1-74ff4e0b7f01.png">
 
