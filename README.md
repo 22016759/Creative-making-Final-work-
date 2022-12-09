@@ -95,3 +95,25 @@ This week's experiment came out with a lot of problems. When I was doing the fir
 
 <img width="798" alt="截屏2022-12-09 20 54 46" src="https://user-images.githubusercontent.com/119021236/206794611-a521cbb2-ca73-4955-87c1-74ff4e0b7f01.png">
 
+However, the problem was still arising. I have found that the buzzer does not sound 5 seconds before the balloon is due to explode. I have previously thought that I could just get a good idea of how long it would take for the balloon to inflate and explode, and then calculate the buzzer time in advance based on the time required, but this problem has not been solved, so I am wondering if I could detect the air pressure of the balloon and trigger the buzzer before the threshold of the air pressure?
+
+Then I came up with an idea, which was that I tested a few balloons and I had them all blow from the beginning and probably each one would be blown by the air pump in about seven minutes, so I envisaged that I could get the air pump to blow the balloons up to six minutes in advance, so that the balloons were at a critical point where they both wanted to explode, so that I could narrow the margin of error and a small control buzzer could start working a few seconds before the balloons were due to explode.
+
+# Week 8
+
+My goal is to continually test that my experimental circuits and individual parts are working properly and to complete the soldering. To make appointments to learn laser cutting, and to make appointments for inflatable parts that need to be 3D printed by me.
+
+I thought soldering should be an easy task, but the result was that I found that the parts I had soldered at the beginning did not work when connected to the circuit, after which I opened the code for heartbeat detection, checked the serial monitor and found that there should be a short circuit because the phrase " We created a pulse sensor object!" was repeated twice. This meant that the LCD display restarted working, then an enthusiastic student saw my expansion board and told me that I could solder the 5v and Gun duplex wires to the expansion board first, then the positive and negative terminals should preferably be separated by a few rows so that they don't short out. Sure enough! Very good advice!
+
+The picture below shows my ultrasonic, air pump and buzzer welding board.
+
+<img width="395" alt="截屏2022-12-09 21 02 20" src="https://user-images.githubusercontent.com/119021236/206795606-f9341830-74ac-49fd-837a-fc91e1035658.png">
+
+
+
+
+
+
+
+
+
