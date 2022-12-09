@@ -107,7 +107,7 @@ I thought soldering should be an easy task, but the result was that I found that
 
 The picture below shows my ultrasonic, air pump and buzzer welding board.
 
-<img width="395" alt="截屏2022-12-09 21 02 20" src="https://user-images.githubusercontent.com/119021236/206795606-f9341830-74ac-49fd-837a-fc91e1035658.png">
+<img width="904" alt="截屏2022-12-09 21 36 46" src="https://user-images.githubusercontent.com/119021236/206800117-fa59ead7-ee7d-415a-9354-9ca0bef984d9.png">
 
 The picture below shows the solder board for my LED, LCD and heartbeat detection sensor.
 
@@ -130,6 +130,12 @@ It should have been a very happy week as it finally got to the point where I cou
 Firstly, I sprayed the box white, but with my design I wanted to spray the box with its name and then a little decorative pattern and colour. I first practiced how to spray the letters on the bottom of the box a few times, the practice was very successful, especially the last time, it was a perfect font, then I confidently sprayed "BOMB" on the top lid of the box and it was a mess, the The letters were just outlines and I couldn't tell what word I was trying to write, then I sprayed it a few more times and it still didn't look good, so I sprayed it white again, it was too cold that day and I decided to go back upstairs and do other work, so I left all my spray paint and tools on the table outside, bad luck happened, when I went home in the evening to get my materials, all the spray paint had already been taken away and I found that my spray paint hadn't been sprayed properly and thought I had overlaid it a few times with other colour, it got a thick coating and mixed with other colour in places and I ended up with a box that went from a clean white box to one that looked a bit like it had been picked up in the bin.
 
 <img width="958" alt="截屏2022-12-09 21 24 49" src="https://user-images.githubusercontent.com/119021236/206798571-3d7bde04-edae-47fc-a61c-15d7430e1f91.png">
+
+Here is a detailed display of my box making.
+
+
+https://user-images.githubusercontent.com/119021236/206800603-28ca7e76-c108-4b3a-a15b-001f07bb9665.MP4
+
 
 
 
