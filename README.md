@@ -73,4 +73,9 @@ Later on monitoring my heartbeat was finally regular, and after researching the 
 
 <img width="802" alt="截屏2022-12-09 20 46 47" src="https://user-images.githubusercontent.com/119021236/206793397-0dcbc5f2-1d93-4b10-a47f-d424a315a924.png">
 
+However, I found that the C19 was still playing erratically, so I promptly purchased a new sensor. However, I found that there were times when the values were inaccurate and often a high value popped up out of nowhere, but it was more comforting to know that accurate values could still be measured.
+
+Here is my circuit diagram.
+
+<img width="850" alt="截屏2022-12-09 20 48 30" src="https://user-images.githubusercontent.com/119021236/206793733-2edfbf1e-a3f4-4fe5-be58-f19c794fd22c.png">
 
