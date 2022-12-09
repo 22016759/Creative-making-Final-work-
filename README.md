@@ -39,9 +39,6 @@ Air pump: Requires a device to inflate the balloon.
 
 The teacher's requirements were very simple, in terms of hardware, at least two input sensors and output actuators, and no restrictions on the subject matter. But I found it difficult and unrealistic to imagine, so I have been accumulating inspiration, sometimes from a quote, sometimes from a sudden feeling in my life, and then recording it as much as possible.
 
-<img width="242" alt="image" src="https://user-images.githubusercontent.com/119021236/206790114-92d230bd-1af0-40f6-989d-f758f726045d.png">
-<img width="159" alt="image" src="https://user-images.githubusercontent.com/119021236/206790162-a72afe41-bba7-4bff-83fd-7ac411ca1b74.png">
-<img width="154" alt="image" src="https://user-images.githubusercontent.com/119021236/206790181-ebd3a552-62b4-413a-b7c9-1ba902d75e88.png">
-
+<img width="1203" alt="截屏2022-12-09 20 31 14" src="https://user-images.githubusercontent.com/119021236/206791153-48abd192-7297-4ec2-91c4-b20ad942e6d7.png">
 
 The teacher's requirements were very simple, in terms of hardware, at least two input sensors and output actuators, and no restrictions on the subject matter. But I found it difficult and unrealistic to imagine, so I have been accumulating inspiration, sometimes from a quote, sometimes from a sudden feeling in my life, and then recording it as much as possible.
