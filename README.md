@@ -133,6 +133,10 @@ Here is a detailed display of my box making.
 
 <img width="835" alt="截屏2022-12-09 21 46 26" src="https://user-images.githubusercontent.com/119021236/206801180-4405c319-e10d-4f0f-acae-c24710403b85.png">
 
+Here is my final work video link from YouTube:
+
+https://youtu.be/M90YWMEbfoM
+
 Here is my final work presentation video link from YouTube:
 
 https://youtu.be/x6kgCIBCkNE
