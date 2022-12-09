@@ -109,11 +109,13 @@ The picture below shows my ultrasonic, air pump and buzzer welding board.
 
 <img width="395" alt="截屏2022-12-09 21 02 20" src="https://user-images.githubusercontent.com/119021236/206795606-f9341830-74ac-49fd-837a-fc91e1035658.png">
 
+The picture below shows the solder board for my LED, LCD and heartbeat detection sensor.
 
+<img width="783" alt="截屏2022-12-09 21 04 09" src="https://user-images.githubusercontent.com/119021236/206795818-9f5ad5bc-81ba-483f-81bc-55265ede3367.png">
 
+As I wanted to print six small lampshades, I needed transparent printing material, unfortunately the 3D printer at school doesn't work very well for printing transparent material, and then about my inflatable funnel attached to the air pump didn't print successfully, so I decided to use something around me instead.
 
-
-
+<img width="759" alt="截屏2022-12-09 21 05 26" src="https://user-images.githubusercontent.com/119021236/206795961-f7dc0154-f969-474e-934d-bd05ee473df8.png">
 
 
 
