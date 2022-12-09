@@ -8,18 +8,18 @@ I must mention that I had a lot of help from my classmates and teachers in this 
 
 # Week 4
 
-Project Proposal:
+# Project Proposal:
 
-Concept:
+# Concept:
 Accepting and embracing the randomness and uncertainty of life.
 
-Project Name: BOMB BOX
+# Project Name: BOMB BOX
 
-Keywords:
+# Keywords:
 
 Unknown, Randomness, Indeterminacy, Unexpected, Surprise.
 
-Possible Inputs?
+# Possible Inputs?
 
 Ultrasonic sensor: Detects the approach of someone with an ultrasonic sensor.
 
@@ -27,7 +27,7 @@ Button: Or the whole device can be turned on with a button, consider a point sig
 
 pulse sensor: Detects the heart rate of a person when they engage the device, different people's physical reactions to unknown things.
 
-Possible Outputs?
+# Possible Outputs?
 
 LED: Visualisation of the heart rate and visualisation of the change in heart rate.
 
