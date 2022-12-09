@@ -133,8 +133,8 @@ Firstly, I sprayed the box white, but with my design I wanted to spray the box w
 
 Here is a detailed display of my box making.
 
+<img width="835" alt="截屏2022-12-09 21 46 26" src="https://user-images.githubusercontent.com/119021236/206801180-4405c319-e10d-4f0f-acae-c24710403b85.png">
 
-https://user-images.githubusercontent.com/119021236/206800603-28ca7e76-c108-4b3a-a15b-001f07bb9665.MP4
 
 
 
