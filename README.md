@@ -115,7 +115,13 @@ The picture below shows the solder board for my LED, LCD and heartbeat detection
 
 As I wanted to print six small lampshades, I needed transparent printing material, unfortunately the 3D printer at school doesn't work very well for printing transparent material, and then about my inflatable funnel attached to the air pump didn't print successfully, so I decided to use something around me instead.
 
+This is the model of the lampshade and the inflatable funnel that I had originally built.
+
 <img width="759" alt="截屏2022-12-09 21 05 26" src="https://user-images.githubusercontent.com/119021236/206795961-f7dc0154-f969-474e-934d-bd05ee473df8.png">
+
+# Week 9
+
+Last week to assemble my box!
 
 
 
