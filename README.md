@@ -123,5 +123,13 @@ This is the model of the lampshade and the inflatable funnel that I had original
 
 Last week to assemble my box!
 
+It should have been a very happy week as it finally got to the point where I could assemble the box, but it all unfortunately started when I started painting the box.
+
+<img width="892" alt="截屏2022-12-09 21 24 42" src="https://user-images.githubusercontent.com/119021236/206798551-ede70b31-6f55-4832-80eb-4abee7e879f6.png">
+
+Firstly, I sprayed the box white, but with my design I wanted to spray the box with its name and then a little decorative pattern and colour. I first practiced how to spray the letters on the bottom of the box a few times, the practice was very successful, especially the last time, it was a perfect font, then I confidently sprayed "BOMB" on the top lid of the box and it was a mess, the The letters were just outlines and I couldn't tell what word I was trying to write, then I sprayed it a few more times and it still didn't look good, so I sprayed it white again, it was too cold that day and I decided to go back upstairs and do other work, so I left all my spray paint and tools on the table outside, bad luck happened, when I went home in the evening to get my materials, all the spray paint had already been taken away and I found that my spray paint hadn't been sprayed properly and thought I had overlaid it a few times with other colour, it got a thick coating and mixed with other colour in places and I ended up with a box that went from a clean white box to one that looked a bit like it had been picked up in the bin.
+
+<img width="958" alt="截屏2022-12-09 21 24 49" src="https://user-images.githubusercontent.com/119021236/206798571-3d7bde04-edae-47fc-a61c-15d7430e1f91.png">
+
 
 
